@@ -5,12 +5,7 @@ Currently working on two game:
 1. boardheMesh Game(iOS)
 2. Sudoku(Book)
 
-
-#Sudoku
-boardhe sudoku module load sudoku data from image then solve it, i use the sudokuextract to extract sudoku data.
-
-
-#boardODO
+#TODO
 1. implement sudokuextraction instead of using open source library	
 
 
